@@ -1,0 +1,29 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "Post One",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, tempora non sit voluptate laboriosam eos voluptatibus a blanditiis ipsa illum fuga. Facilis blanditiis, nulla vero explicabo ab suscipit quam! Nulla cupiditate labore totam est! Laudantium, sequi aliquid cumque quasi fugiat, nulla quod dolores repellendus culpa corporis iste voluptas obcaecati ex nisi dolorum a! Ratione magni rem quibusdam sint neque nobis necessitatibus nam dolorum mollitia eligendi a debitis voluptate blanditiis omnis, dicta culpa nisi quam? Rem alias numquam laudantium ullam itaque, sint excepturi pariatur! Quo harum quod ipsa error voluptatem illo sed, aperiam eos consequuntur temporibus minus explicabo iure ipsum placeat",
+            "tags": ["webdev", "coding", "news"]
+        },
+        {
+            "id": 2,
+            "title": "Post Two",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, tempora non sit voluptate laboriosam eos voluptatibus a blanditiis ipsa illum fuga. Facilis blanditiis, nulla vero explicabo ab suscipit quam! Nulla cupiditate labore totam est! Laudantium, sequi aliquid cumque quasi fugiat, nulla quod dolores repellendus culpa corporis iste voluptas obcaecati ex nisi dolorum a! Ratione magni rem quibusdam sint neque nobis necessitatibus nam dolorum mollitia eligendi a debitis voluptate blanditiis omnis, dicta culpa nisi quam? Rem alias numquam laudantium ullam itaque, sint excepturi pariatur! Quo harum quod ipsa error voluptatem illo sed, aperiam eos consequuntur temporibus minus explicabo iure ipsum placeat",
+            "tags": ["webdev", "coding", "news"]
+        },
+        {
+            "id": 3,
+            "title": "Post Three",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, tempora non sit voluptate laboriosam eos voluptatibus a blanditiis ipsa illum fuga. Facilis blanditiis, nulla vero explicabo ab suscipit quam! Nulla cupiditate labore totam est! Laudantium, sequi aliquid cumque quasi fugiat, nulla quod dolores repellendus culpa corporis iste voluptas obcaecati ex nisi dolorum a! Ratione magni rem quibusdam sint neque nobis necessitatibus nam dolorum mollitia eligendi a debitis voluptate blanditiis omnis, dicta culpa nisi quam? Rem alias numquam laudantium ullam itaque, sint excepturi pariatur! Quo harum quod ipsa error voluptatem illo sed, aperiam eos consequuntur temporibus minus explicabo iure ipsum placeat",
+            "tags": ["webdev", "coding", "news"]
+        },
+        {
+            "id": 4,
+            "title": "Post Four",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, tempora non sit voluptate laboriosam eos voluptatibus a blanditiis ipsa illum fuga. Facilis blanditiis, nulla vero explicabo ab suscipit quam! Nulla cupiditate labore totam est! Laudantium, sequi aliquid cumque quasi fugiat, nulla quod dolores repellendus culpa corporis iste voluptas obcaecati ex nisi dolorum a! Ratione magni rem quibusdam sint neque nobis necessitatibus nam dolorum mollitia eligendi a debitis voluptate blanditiis omnis, dicta culpa nisi quam? Rem alias numquam laudantium ullam itaque, sint excepturi pariatur! Quo harum quod ipsa error voluptatem illo sed, aperiam eos consequuntur temporibus minus explicabo iure ipsum placeat",
+            "tags": ["webdev", "coding", "news"]
+        }
+
+    ]
+
+}
